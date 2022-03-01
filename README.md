@@ -1,2 +1,1 @@
-
-This project is meant to train the ALX students to familiarize themselves with Git Cmd
+My first readme
